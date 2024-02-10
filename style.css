@@ -1,0 +1,14 @@
+:root{
+   --blue:#392de3;
+   --pink:#d42089;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.info{
+    background: linear-gradient(to right,var(--blue),var(--pink));
+    border-radius: 0.3rem;
+    padding: 0.3rem;
+    color: white;
+}
